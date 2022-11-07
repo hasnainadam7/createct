@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/createct/static/css/main.84b0afb6.css",
+    "main.js": "/createct/static/js/main.ce3c5dd3.js",
+    "static/js/787.2b862616.chunk.js": "/createct/static/js/787.2b862616.chunk.js",
+    "static/media/ffffff.jpg": "/createct/static/media/ffffff.2217b8829b761f955295.jpg",
+    "static/media/yyy.jpg": "/createct/static/media/yyy.eab294af6f4e19b6c27e.jpg",
+    "index.html": "/createct/index.html",
+    "main.84b0afb6.css.map": "/createct/static/css/main.84b0afb6.css.map",
+    "main.ce3c5dd3.js.map": "/createct/static/js/main.ce3c5dd3.js.map",
+    "787.2b862616.chunk.js.map": "/createct/static/js/787.2b862616.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84b0afb6.css",
+    "static/js/main.ce3c5dd3.js"
+  ]
+}
